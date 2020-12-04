@@ -44,7 +44,7 @@
         <li class="me">secreat creatur under the see which <em id="ss" >destroys </em><strong class = "de">ships and plains</strong></li>
 		<br><img src="https://www.kasandbox.org/programming-images/avatars/primosaur-ultimate.png"></li></br>
         <li class="me">my <strong>little</strong> brother</li>
-        <img src ="https://www.kasandbox.org/programming-images/avatars/spunky-sam.png"></li>
+        <img src ="https://www.kasandbox.org/programming-images/avatars/spunky-sam.png">
 		</ol>
     </body>
 </html>
