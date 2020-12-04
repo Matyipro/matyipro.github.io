@@ -131,20 +131,20 @@
 		<h3 class ="w">Lexikon</h3>
 		<h4 class="chap">chapters</h4>
 		<div class = "w"><ul>
-		<li class="lo"><a  class="lo"href = "#a">Start whith leter a </a></li>
-		<li class="lo"><a class="lo" href = "#b">Start whith leter b</a> </li>
-		<li class="lo"><a  class="lo"href = "#c">Start whith leter c </a></li>
-		<li class="lo"><a  class="lo"href = "#d">Start whith leter d </a></li>
-		<li class="lo"><a  class="lo"href = "#e">Start whith leter e </a></li>
-		<li class="lo"><a  class="lo"href = "#f">Start whith leter f </a></li>
-		<li class="lo"><a  class="lo"href = "#g">Start whith leter g</a> </li>
-		<li class="lo"><a  class="lo"href = "#h">Start whith leter h</a> </li>
-		<li class="lo"><a  class="lo"href = "#i">Start whith leter i </a></li>
-		<li class="lo"><a  href = "#j" class="lo">Start whith leter j </a></li>
-		<li class="lo"><a  class="lo"href = "#k">Start whith leter K </a></li>
-		<li class="lo"><a  class="lo"href = "#l">Start whith leter l </a></li>
-		<li class="lo"><a  class="lo"href = "#m">Start whith leter m</a> </li>
-		<li class="lo"><a  class="lo"href = "#n">Start whith leter n </a></li>
+		<li class="lo"><a  id="lo"href = "#a">Start whith leter a </a></li>
+		<li class="lo"><a id="lo" href = "#b">Start whith leter b</a> </li>
+		<li class="lo"><a  id="lo"href = "#c">Start whith leter c </a></li>
+		<li class="lo"><a  id="lo"href = "#d">Start whith leter d </a></li>
+		<li class="lo"><a  id="lo"href = "#e">Start whith leter e </a></li>
+		<li class="lo"><a  id="lo"href = "#f">Start whith leter f </a></li>
+		<li class="lo"><a  id="lo"href = "#g">Start whith leter g</a> </li>
+		<li class="lo"><a  id="lo"href = "#h">Start whith leter h</a> </li>
+		<li class="lo"><a id="lo"href = "#i">Start whith leter i </a></li>
+		<li class="lo"><a id="lo" href = "#j" >Start whith leter j </a></li>
+		<li class="lo"><a  id="lo"href = "#k">Start whith leter K </a></li>
+		<li class="lo"><a  id="lo"href = "#l">Start whith leter l </a></li>
+		<li class="lo"><a id="lo"href = "#m">Start whith leter m</a> </li>
+		<li class="lo"><a  id="lo"href = "#n">Start whith leter n </a></li>
 		</ul></div></div>
 	<div class ="l2">	<h3><span class="d1">A</span></h3><ul class="me">
 		
