@@ -133,21 +133,21 @@
 		<div class = "w"><ul>
 		<li class="lo"><a id="lo" 
 href = "#a">Start whith leter a </a></li>
-		<li class="lo"><a id="lo" href = "#b">Start whith leter b</a> </li>
-		<li class="lo"><a id="lo" href = "#c">Start whith leter c </a></li>
-		<li class="lo"><a id="lo" href = "#d">Start whith leter d </a></li>
-		<li class="lo"><a id="lo" href = "#e">Start whith leter e </a></li>
-		<li class="lo"><a id="lo" href = "#f">Start whith leter f </a></li>
-		<li class="lo"><a id="lo" href = "#g">Start whith leter g</a> </li>
-		<li class="lo"><a id="lo" href = "#h">Start whith leter h</a> </li>
-		<li class="lo"><a id="lo" href = "#i">Start whith leter i </a></li>
-		<li class="lo"><a id="lo" href = "#j" >Start whith leter j </a></li>
-		<li class="lo"><a id="lo" href = "#k">Start whith leter K </a></li>
-		<li class="lo"><a id="lo" href = "#l">Start whith leter l </a></li>
-		<li class="lo"><a id="lo" href = "#m">Start whith leter m</a> </li>
-		<li class="lo"><a id="lo" href = "#n">Start whith leter n </a></li>
+		<li class="lo"><a class="lo" href = "#b">Start whith leter b</a> </li>
+		<li class="lo"><a class="lo" href = "#c">Start whith leter c </a></li>
+		<li class="lo"><a class="lo" href = "#d">Start whith leter d </a></li>
+		<li class="lo"><a class="lo" href = "#e">Start whith leter e </a></li>
+		<li class="lo"><a class="lo" href = "#f">Start whith leter f </a></li>
+		<li class="lo"><a class="lo" href = "#g">Start whith leter g</a> </li>
+		<li class="lo"><a class="lo" href = "#h">Start whith leter h</a> </li>
+		<li class="lo"><a class="lo" href = "#i">Start whith leter i </a></li>
+		<li class="lo"><a class="lo" href = "#j" >Start whith leter j </a></li>
+		<li class="lo"><a class="lo" href = "#k">Start whith leter K </a></li>
+		<li class="lo"><a class="lo" href = "#l">Start whith leter l </a></li>
+		<li class="lo"><a class="lo" href = "#m">Start whith leter m</a> </li>
+		<li class="lo"><a class="lo" href = "#n">Start whith leter n </a></li>
 		</ul></div></div>
-	<div class ="l2">	<h3><span class="d1">A</span></h3><ul class="me">
+	<div class ="l2">	<h3 id ="a"><span class="d1">A</span></h3><ul class="me">
 		
 		    <li>Á Bao A Qu (Malay) - Entity that lives in the Tower of Victory in Chitor.</li>
 <li>Aatxe (Basque) - Bull spirit.</li>
@@ -172,7 +172,7 @@ href = "#a">Start whith leter a </a></li>
 <li>Bahamut (Arabian) - Giant fish
 <li>Bai Ze (Chinese) - Talking beast which handed down knowledge on harmful spirits
 <li>Ba Jiao Gui (Chinese) - Banana tree spirit
-<li id ="a">Bake-kujira (Japanese) - Ghostly whale skeleton that drifts along the coastline of Shimane Prefecture
+<li>Bake-kujira (Japanese) - Ghostly whale skeleton that drifts along the coastline of Shimane Prefecture
 <li>Bakeneko (Japanese) - Magical cat
 <li>Bakezōri (Japanese) - Animated straw sandal
 <li>Bakhtak (Iranian) - Night demon
