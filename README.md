@@ -75,6 +75,7 @@
 			    color:rgb(255, 255, 255);
 			    border:5px botted white;
 			    
+			    
 			}
 			.p1{
 			    position:relative;
@@ -112,8 +113,8 @@
         
         <p>They are awesome because <strong>they are kinda wierd</strong>.</p>
         <h2>They are cool</h2>
-        <h1>The creature of the year </h1>
-        <h3 id="psitionl">list</h3>
+        <h1>The creature of the year 2020</h1>
+        <h3 id="psitionl"> popular rang list</h3>
 		<div class = "posil"><ol>
         <li class="me">Secreat creatur at Mt. everst<br>
 		<img src="https://www.kasandbox.org/programming-images/avatars/aqualine-sapling.png">
@@ -128,7 +129,7 @@
 		    
 		</div>
 		<h2>Or if you want to lern more creature  just scroll down</h2>
-		<h3 class ="w">Lexikon</h3>
+		<h3 class ="w"> <strong> creatures Lexikon </strong></h3>
 		<h4 class="chap">chapters</h4>
 		<div class = "w"><ul>
 		<li class="lo"><a class="lo" href = "#a">Start whith leter a </a></li>
@@ -235,7 +236,7 @@ Ded Moroz (Russia) - A winter spirit who delivers gifts to children on New Year'
 <li>Dökkálfar (Norse) - Male ancestral spirits; the Dark Elves
 <li>Dola (Slavic) - Tutelary and fate spirit
 <li>Domovoi (Slavic) - House spirit</li>
-<h3><span class="d1">E</span></h3>
+<h3 id ="e"><span class="d1">E</span></h3>
 <li>Easter Bunny (Christianity) - Anthropomorphic lagomorph.
 <li>Easter Bilby (Australian) - Anthropomorphic bilby.
 <li>Each Uisge (Scottish) - Malevolent water horse
@@ -258,11 +259,13 @@ Ded Moroz (Russia) - A winter spirit who delivers gifts to children on New Year'
 <li>Emim (Jewish) - Giant
 <li>Empusa (Greek) - Female demon that waylays travelers and seduces and kills men
 <li>Encantado (Brazilian) - Dolphin-human shapeshifter
-<li id ="e">Enchanted Moor (Portuguese) - Enchanted princesses
+<li>Enchanted Moor (Portuguese) - Enchanted princesses
 <li>Enfield (Heraldic) - Fox-greyhound-lion-wolf-eagle hybrid
 <li>Engkanto (Philippine) - Neutral nature spirit
 <li>Enkō (Japanese) - Kappa of Shikoku and western Honshū</li>
-<h3><span class="d1">F</span></h3>
+
+<h3 id ="f"><span class="d1">F</span></h3>
+
 <li>Fachen (Irish and Scottish) - Monster with half a body
 <li>Fafnir (Germanic mythology) - Dwarf who was cursed and turned into a dragon. He was later slain by Sigurd in the Saga of Nibelung.
 <li>Fairy (Many cultures worldwide--[esp. Germanic mythology/folklore]) - Nature spirits
@@ -287,7 +290,7 @@ Ded Moroz (Russia) - A winter spirit who delivers gifts to children on New Year'
 <li>Flatwoods Monster (American Folklore) (West Virginia) - Alien, <li>humanoid
 <li>omorian (Irish) - Goat-headed giant
 <li>Forest Bull (Medieval Bestiaries) - Giant horned red cattle
-<li id ="f">Freybug - Norfolk black dog
+<li>Freybug - Norfolk black dog
 <li>Fuath (Celtic) - Malevolent water spirit
 <li>Fucanglong (Chinese) - Underworld dragon
 <li>Funayūrei (Japanese) - Ghosts of people who drowned at sea</li>	    
@@ -339,7 +342,7 @@ Ded Moroz (Russia) - A winter spirit who delivers gifts to children on New Year'
 <li><li>Griffin (Heraldic) - Lion-eagle hybrid
 <li>Grigori (Christian, Jewish, and Islamic mythology) - Fallen angels, father of Nephilim
 <li>Grim (English and Scandinavian) - Tutelary spirits of churches</li>
-<h3><span class="d1">H</span></h3>
+<h3 id ="h"><span class="d1">H</span></h3>
 <li>Habrok (Norse) - listed as the "best" hawk
 <li>Hadhayosh (Persian) - gigantic land animal
 <li>Hades (Greek) - Ruler of the Underworld
@@ -368,11 +371,11 @@ Ded Moroz (Russia) - A winter spirit who delivers gifts to children on New Year'
 <li>Hecatonchires (Greek) - primordial giants with 100 hands and fifty heads
 <li>Heikegani (Japanese) - crabs with human-faced shells, the spirits of warriors killed in the Battle of Dan-no-ura
 <li>Heinzelmännchen (German) - household spirit
-<li id ="h">Helead (Greek) - fen nymph
+<li>Helead (Greek) - fen nymph
 <li>Hellhound (Many cultures worldwide) - underworld dog
 <li>Heracles (Greek) - gatekeeper of Olympus</li>
 
-<h3><span class="d1">I</span></h3>
+<h3 id ="i"><span class="d1">I</span></h3>
 
 <li>Iannic-ann-ôd (Breton) - Ghost of a drowned person
 <li>Iara (Brazilian) - Female water spirit
@@ -395,7 +398,7 @@ Ded Moroz (Russia) - A winter spirit who delivers gifts to children on New Year'
 <li>Inapertwa (Aboriginal) - Simple organisms, used by creator-gods to make everything else
 <li>Incubus (Medieval folklore) - Male night-demon and seducer
 <li>Indrik (Russian) - One-horned horse-bull hybrid
-<li id ="i">Indus Worm (Medieval Bestiaries) - Giant, white, carnivorous worm
+<li>Indus Worm (Medieval Bestiaries) - Giant, white, carnivorous worm
 <li>Inkanyamba (Zulu) - Horse-headed serpent
 <li>Inugami (Japanese) - Dog spirit
 <li>Ior (Romanian) - Giant creature, with good spirit
@@ -407,7 +410,7 @@ Ded Moroz (Russia) - A winter spirit who delivers gifts to children on New Year'
 <li>Island Satyr (Medieval Bestiaries) - Savage human-goat hybrid from a remote island chain
 <li>Isonade (Japanese) - Shark-like sea monster</li>
 
-<h3><span class="d1">J</span></h3>
+<h3 id ="j><span class="d1">J</span></h3>
 
 <li>Jackalope (American) - Rabbit with antlers
 <li>Jack-In-Irons (English) - Malevolent giant
@@ -434,13 +437,13 @@ Ded Moroz (Russia) - A winter spirit who delivers gifts to children on New Year'
 <li>Jiu tou niao (Chinese) - Nine-headed, demonic bird
 <li>Jogah (Iroquois) - Little people nature spirit
 <li>Jörmungandr (Norse) - Sea serpent
-<li id ="j">Jorōgumo (Japanese) - Spider woman
+<li">Jorōgumo (Japanese) - Spider woman
 <li>Jotai (Japanese) - Animated folding screen cloth
 <li>Jötunn (Norse) - Gigantic nature spirits
 <li>Jujak (Korean) - Bird
 <li>Jumbee (Guyanese) - Malevolent spirit</li>
 
-<h3><span class="d1">K</span></h3>
+<h3 id = "k"><span class="d1">K</span></h3>
 
 <li>Kabouter (Dutch) - Little people that live underground, in mushrooms, or as house spirits
 <li>Kachina (Hopi and Puebloan) - Nature spirit
@@ -469,7 +472,7 @@ Ded Moroz (Russia) - A winter spirit who delivers gifts to children on New Year'
 <li>Kasha (Japanese) - Cat-like demon which descends from the sky and carries away corpses
 <li>Kashanbo (Japanese) - Kappa who climb into the mountains for the winter
 <li>Katawa-guruma (Japanese) - Woman riding on a flaming wheel
-<li id = "k">Katsura-otoko (Japanese) - Handsome man from the moon
+<li>Katsura-otoko (Japanese) - Handsome man from the moon
 <li>Katallan (Albanian) - Man-eating giant
 <li>Kaukas (Lithuanian) - Nature spirit
 <li>Kawa-uso (Japanese) - Supernatural river otter
@@ -487,7 +490,7 @@ Colchis bull (Greek) - Bronze-hoofed bulls
 <li>Khyah (Nepalese) - Fat, hairy ape-like creature
 <li>Kigatilik (Inuit) - Night-demon</li>
 
-<h3><span class="d1">L</span></h3>
+<h3 id ="l"><span class="d1">L</span></h3>
 
 <li>La-bar-tu (Assyrian) - Disease demon
 <li>Labbu (Akkadian) - Sea snake
@@ -511,7 +514,7 @@ Colchis bull (Greek) - Bronze-hoofed bulls
 <li>La Sayona (Venezuela) - Female ghost that punishes unfaithful husbands
 <li>La Tunda (Colombian) - Nature spirit that seduces and kills men
 <li>Lava bear - Miniature bear thought to inhabit the lava beds of south central Oregon
-<li id ="l">Laukų dvasios (Lithuanian) - Field spirit
+<li>Laukų dvasios (Lithuanian) - Field spirit
 <li>Lauma (Baltic) - Sky spirit
 <li>Lavellan (Scottish) - Gigantic water rat
 <li>Leanan sidhe (Celtic) - Fairy lover
@@ -531,7 +534,7 @@ Colchis bull (Greek) - Bronze-hoofed bulls
 <li>Lightning Bird (Southern Africa) - Magical bird found at sites of lightning strikes
 <li>Likho (Slavic) - One-eyed hag or goblin</li>
 
-<h3><span class="d1">M</span></h3>
+<h3 id ="m"><span class="d1">M</span></h3>
 
 <li>Maa-alused (Estonian mythology) - Subterranean spirit
 <li>Machlyes (Medieval bestiaries) - Hermaphroditic humanoid
@@ -554,7 +557,7 @@ Colchis bull (Greek) - Bronze-hoofed bulls
 <li>Mannegishi (Cree) - Little people with six fingers and no noses
 <li>Manticore (Persian mythology) - Lion-human-scorpion hybrid
 <li>Mapinguari (Brazilian mythology) - Giant sloth
-<li id ="m">Mara (Scandinavian folklore) - Female night-demon
+<li>Mara (Scandinavian folklore) - Female night-demon
 <li>Marabbecca (Italian folklore) - Malevolent water spirit
 <li>Mareikura (Tuamotu) - Attendant of Kiho-tumu, the supreme god
 <li>Mares of Diomedes (Greek mythology) - Man-eating horses
@@ -573,7 +576,7 @@ Colchis bull (Greek) - Bronze-hoofed bulls
 <li>Melusine (Medieval folklore) - Female water spirit, with the form of a winged mermaid or serpent
 <li>Menehune (Hawaiian mythology) - Little people and craftsmen</li>
 
-<h3><span class="d1">N</span></h3>
+<h3 id ="n"><span class="d1">N</span></h3>
 
 
 <li>Nachzehrer (German) - Anthropophagous undead
@@ -602,7 +605,7 @@ Colchis bull (Greek) - Bronze-hoofed bulls
 <li>Nekomusume (Japanese) - Cat in the form of a girl
 <li>Nemean Lion (Greek) - Lion with impenetrable skin
 <li>Nephilim (Abrahamic mythology) - Gigantic sons of Grigori and human women
-<li id ="n">Nereid (Greek) - Nymph daughters of Nereus
+<li>Nereid (Greek) - Nymph daughters of Nereus
 <li>Ngen (Mapuche) - Nature spirit
 <li>Nguruvilu (Mapuche) - Fox-like water snake
 <li>Nian (Chinese) - Predatory animal
