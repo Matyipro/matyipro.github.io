@@ -131,8 +131,7 @@
 		<h3 class ="w">Lexikon</h3>
 		<h4 class="chap">chapters</h4>
 		<div class = "w"><ul>
-		<li class="lo"><a id="lo" 
-href = "#a">Start whith leter a </a></li>
+		<li class="lo"><a class="lo" href = "#a">Start whith leter a </a></li>
 		<li class="lo"><a class="lo" href = "#b">Start whith leter b</a> </li>
 		<li class="lo"><a class="lo" href = "#c">Start whith leter c </a></li>
 		<li class="lo"><a class="lo" href = "#d">Start whith leter d </a></li>
@@ -149,7 +148,7 @@ href = "#a">Start whith leter a </a></li>
 		</ul></div></div>
 	<div class ="l2">	<h3 id ="a"><span class="d1">A</span></h3><ul class="me">
 		
-		    <li>Á Bao A Qu (Malay) - Entity that lives in the Tower of Victory in Chitor.</li>
+<li>Á Bao A Qu (Malay) - Entity that lives in the Tower of Victory in Chitor.</li>
 <li>Aatxe (Basque) - Bull spirit.</li>
 <li>Abaasy (Yakuts) - Iron-toothed demons.
 <li>Abada (African) - Unicorn that inhabits the African Congo.
@@ -163,7 +162,7 @@ href = "#a">Start whith leter a </a></li>
 <li>Achlis (Roman) - Curious elk.
 <li>Adar Llwch Gwin (Welsh) - Giant birds that understand human languages.</li>
 
-<h3><span class="d1">B</span></h3>
+<h3 id="b"><span class="d1">B</span></h3>
 <li>Ba (Egyptian) - Soul of the deceased, depicted as a bird or a human-headed bird.
 <li>Baba Yaga (Slavic) - Forest spirit and hag
 <li>Backoo (Guyanese) - Malevolent little people
@@ -178,7 +177,7 @@ href = "#a">Start whith leter a </a></li>
 <li>Bakhtak (Iranian) - Night demon
 <li>Baku (Japanese) - Dream-devouring, tapir-like creature
 <li>Bakunawa (Philippine) - Sea serpent that causes eclipses</li>
-<h3><span class="d1">C</span></h3>
+<h3 id ="c"><span class="d1">C</span></h3>
 <li>Cabeiri (Greek) - Smith and wine spirit
 <li>Cacus (Roman) - Fire-breathing giant
 <li>Cadejo (Central America) - Cow-sized dog-goat hybrid
@@ -189,7 +188,7 @@ href = "#a">Start whith leter a </a></li>
 <li>Callitrix (Medieval Bestiary) - Apes who always bear twins, one the mother loves, the other it hates
 <li>Calydonian Boar (Greek) - Giant, chthonic boar
 <li>Calygreyhound (Heraldic) - Wildcat-deer/antelope-eagle-ox-lion hybrid
-<li id="b">Camahueto (Chilota) - One-horned calf
+<li>Camahueto (Chilota) - One-horned calf
 <li>Cambion (Medieval folklore) - Offspring of a human and an incubus or succubus
 <li>Campe (Greek) - Dragon-human-scorpion hybrid
 <li>Camulatz (Mayan) - Bird that ate the heads of the first men
@@ -202,9 +201,9 @@ href = "#a">Start whith leter a </a></li>
 <li>Căpcăun (Romanian) - Large, monstrous humanoid
 <li>Carbuncle (Latin America) - Small creature with a jewel on its head
 <li>Catoblepas (Medieval Bestiary) - Scaled buffalo-hog hybrid
-<li id ="c">Cat Sidhe (Scottish) - Fairy cat
+<li>Cat Sidhe (Scottish) - Fairy cat
 <li>Ceasg (Scottish)</li>
-<h3 ><span class ="d1" >D</span></h3>
+<h3 id="d"><span class ="d1" >D</span></h3>
 <li >Dactyl (Greek) - Little people and smith and healing spirits
 <li>Daemon (Greek) - Incorporeal spirit
 <li>Dahu (France, Switzerland and the north of Italy) - Like a deer or ibex with legs on one side of its body are shorter than on the other side
@@ -231,7 +230,7 @@ Ded Moroz (Russia) - A winter spirit who delivers gifts to children on New Year'
 <li>Diwata (Philippine) - Tree spirit
 <li>Djall (Albanian)- Devil
 <li>Dobhar-chu (Irish) - King otter
-<li id="d">Do-gakw-ho-wad (Abenaki) - Little people
+<li>Do-gakw-ho-wad (Abenaki) - Little people
 <li>Dokkaebi (Korean) - Grotesque, horned humanoids
 <li>Dökkálfar (Norse) - Male ancestral spirits; the Dark Elves
 <li>Dola (Slavic) - Tutelary and fate spirit
