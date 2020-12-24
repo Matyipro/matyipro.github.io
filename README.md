@@ -416,7 +416,7 @@ Ded Moroz (Russia) - A winter spirit who delivers gifts to children on New Year'
 <li>Island Satyr (Medieval Bestiaries) - Savage human-goat hybrid from a remote island chain
 <li>Isonade (Japanese) - Shark-like sea monster</li>
 
-<h3 id ="j><span class="d1">J</span></h3>
+<h3 id ="j"><span class="d1">J</span></h3>
 
 <li>Jackalope (American) - Rabbit with antlers
 <li>Jack-In-Irons (English) - Malevolent giant
