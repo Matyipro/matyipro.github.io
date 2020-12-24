@@ -4,7 +4,7 @@
         
 	<meta charset="utf-8">
         
-	<title>creaturs</title>
+	<title>Creaturs</title>
         
 	<style>
            
@@ -115,7 +115,7 @@
     </head>
     <body>
         
-        <div class ='p1'><h1>The coolest creature</h1>
+        <div class ='p1'><h1>The coolest creatures</h1>
         
         <p>They are awesome because <strong>they are kinda wierd</strong>.</p>
         <h2>They are cool</h2>
@@ -643,8 +643,6 @@ Colchis bull (Greek) - Bronze-hoofed bulls
 <li>Nyami Nyami (Tonga (Zimbabwean) mythology) - Snake-spirit of the Zambezi River
 <li>Nykštukas (Lithuanian) - Cavern spirit
 <li>Nymph (Greek) - Nature spirit
-
-		</ul></div>
-		
-    </body>
+</ul> </div>
+</body>
 </html>
