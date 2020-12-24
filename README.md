@@ -77,7 +77,7 @@
     <body>
         
        <div id ="heading"><h1>MPL</h1>
-       <span id ="h2"> <h2>Maths and Physik Lexikon</h2></span></div>
+        <h2><span id ="h2">Maths and Physik Lexikon</span></h2></div>
         <div id="menu">
             
             <div class = "title1"><h2>Menu<br></h2>
