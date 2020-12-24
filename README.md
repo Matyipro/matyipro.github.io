@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        <title>creaturs</title>
-        <style>
-            h3
+        
+	<meta charset="utf-8">
+        
+	<title>creaturs</title>
+        
+	<style>
+           
+	   h3
             {color: rgb(255, 255, 255);}
             
             h1{color: rgb(255, 255, 255);}
@@ -101,6 +105,8 @@
 		    border:5px botted white;
 		    
 		    
+		}
+		.lo:hover{color:gray;
 		}
 			
         </style>
